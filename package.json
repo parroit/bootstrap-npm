@@ -1,0 +1,12 @@
+{
+    "name": "bootstrap-npm",
+    "version": "2.3.0",
+    "description": "install twitter boostrap via npm",
+    "author": "Andrea Parodi",
+    "keywords": ["bootstrap", "npm"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/parroit/bootstrap-npm.git"
+    },
+    "engines": { "node": "*" }
+}
